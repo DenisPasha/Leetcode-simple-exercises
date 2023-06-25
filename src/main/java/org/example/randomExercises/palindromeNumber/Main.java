@@ -1,4 +1,4 @@
-package org.example.palindromeNumber;
+package org.example.randomExercises.palindromeNumber;
 
 public class Main {
     public static void main(String[] args) {

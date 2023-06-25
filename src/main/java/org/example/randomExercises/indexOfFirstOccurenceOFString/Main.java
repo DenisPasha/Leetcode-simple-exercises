@@ -1,4 +1,4 @@
-package org.example.indexOfFirstOccurenceOFString;
+package org.example.randomExercises.indexOfFirstOccurenceOFString;
 
 public class Main {
     public static void main(String[] args) {

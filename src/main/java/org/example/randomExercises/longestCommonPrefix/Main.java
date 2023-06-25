@@ -1,4 +1,4 @@
-package org.example.longestCommonPrefix;
+package org.example.randomExercises.longestCommonPrefix;
 
 import java.util.*;
 import java.util.stream.Collectors;

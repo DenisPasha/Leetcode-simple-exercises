@@ -1,4 +1,4 @@
-package org.example.twoSum;
+package org.example.randomExercises.twoSum;
 
 public class Main {
     public static void main(String[] args) {

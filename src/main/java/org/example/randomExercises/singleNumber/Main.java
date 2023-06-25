@@ -1,4 +1,4 @@
-package org.example.singleNumber;
+package org.example.randomExercises.singleNumber;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.example.pascalsTriangle;
+package org.example.randomExercises.pascalsTriangle;
 
 import java.util.ArrayList;
 import java.util.List;

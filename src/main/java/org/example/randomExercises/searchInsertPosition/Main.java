@@ -1,4 +1,4 @@
-package org.example.searchInsertPosition;
+package org.example.randomExercises.searchInsertPosition;
 
 public class Main {
 
