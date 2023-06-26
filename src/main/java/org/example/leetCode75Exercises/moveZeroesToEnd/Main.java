@@ -1,4 +1,4 @@
-package org.example.randomExercises.moveZeroesToEnd;
+package org.example.leetCode75Exercises.moveZeroesToEnd;
 
 public class Main {
 
