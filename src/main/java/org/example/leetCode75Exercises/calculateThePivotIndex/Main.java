@@ -1,5 +1,10 @@
 package org.example.leetCode75Exercises.calculateThePivotIndex;
 
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+import java.util.TreeSet;
+
 public class Main {
     //Given an array of integers nums, calculate the pivot index of this array.
     //
