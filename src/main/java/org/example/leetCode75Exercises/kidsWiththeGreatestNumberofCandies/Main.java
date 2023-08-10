@@ -34,7 +34,6 @@ public class Main {
                 arrToReturn.add(true);
             }
         }
-
         return arrToReturn;
     }
 }
