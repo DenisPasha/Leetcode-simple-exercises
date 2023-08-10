@@ -11,7 +11,7 @@ public class Main {
         moveZeroes(arr);
     }
     public static void moveZeroes(int[] nums) {
-
+        System.out.println();
         int p1 = 0;
         int p2 = p1 + 1;
 
