@@ -10,7 +10,6 @@ public class Main {
     public static void main(String[] args) {
         boolean subsequence = isSubsequence("gac", "ahbgdc");
         System.out.println(subsequence);
-
     }
     public static boolean isSubsequence(String s, String t) {
 
